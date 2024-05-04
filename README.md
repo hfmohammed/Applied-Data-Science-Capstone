@@ -17,7 +17,7 @@
 
 
 ## Week 4
-* Machine Learning Prediction lab - https://github.com/hfmohammed/capstone/blob/main/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb
+* Machine Learning Prediction lab - [[SpaceX_Machine Learning Prediction_Part_5.ipynb)](https://github.com/hfmohammed/Applied-Data-Science-Capstone/blob/main/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb)
 
 
 ## Week 5
